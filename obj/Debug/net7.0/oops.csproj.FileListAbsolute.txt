@@ -1,0 +1,15 @@
+D:\C#\oops\bin\Debug\net7.0\oops.exe
+D:\C#\oops\bin\Debug\net7.0\oops.deps.json
+D:\C#\oops\bin\Debug\net7.0\oops.runtimeconfig.json
+D:\C#\oops\bin\Debug\net7.0\oops.dll
+D:\C#\oops\bin\Debug\net7.0\oops.pdb
+D:\C#\oops\obj\Debug\net7.0\oops.csproj.AssemblyReference.cache
+D:\C#\oops\obj\Debug\net7.0\oops.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\oops\obj\Debug\net7.0\oops.AssemblyInfoInputs.cache
+D:\C#\oops\obj\Debug\net7.0\oops.AssemblyInfo.cs
+D:\C#\oops\obj\Debug\net7.0\oops.csproj.CoreCompileInputs.cache
+D:\C#\oops\obj\Debug\net7.0\oops.dll
+D:\C#\oops\obj\Debug\net7.0\refint\oops.dll
+D:\C#\oops\obj\Debug\net7.0\oops.pdb
+D:\C#\oops\obj\Debug\net7.0\oops.genruntimeconfig.cache
+D:\C#\oops\obj\Debug\net7.0\ref\oops.dll
