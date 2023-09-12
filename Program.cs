@@ -29,5 +29,7 @@
         Program ob = new Program();
         ob.getStudentDetails();
         ob.checkEligibility();
+        Console.WriteLine("hi hello");
     }
 }
+
